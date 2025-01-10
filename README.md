@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=JoaoPedro999&no-bg=true&no-frame=true&column=1&row=1&theme=matrix" height="150" alt="trophy graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=JoaoPedro999&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoPedro999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoPedro999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
